@@ -7,9 +7,9 @@ body,html{
   
 }
 /* nav bar css  */
-.nav header{
+.nav  header{
     padding: 22px 20px;
-    height: 100px
+    height: 50%;
     font-size: 20px;
     text-transform: uppercase;
     color: #f6be00;
@@ -18,7 +18,6 @@ body,html{
 
 }
 nav{
-
     top: 0;
     left: 0;
     width: 100%;
@@ -408,7 +407,7 @@ h6{
     }
 
 .nav ul li a{
-    font-size: 8px;
+    font-size: 15px;
     text-align: center;
     flex-direction: row;
 }
