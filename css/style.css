@@ -432,11 +432,11 @@ h6{
     align-items: center;
     font-size: 0.5rem;
     margin: 0,auto;
-
-   
-    
-
 }
+h1{
+    font-size: 1rem;
+}
+
 
 .sign-up{
     width: 100px;
@@ -456,7 +456,7 @@ h2{
 
 
 #name input{
-  width: 36%;
+  width: 30%;
   height: 0.5rem;
   border:#f6be00 solid 10px;
   border-radius: 9px;
@@ -465,7 +465,7 @@ h2{
 }
 
 #last input{
-    width: 36%;
+    width: 30%;
     height: 0.5rem;
     border:#f6be00 solid 10px;
     border-radius: 9px;
@@ -474,7 +474,7 @@ h2{
 }
 
 button{
-  width: 70%;
+  width: 40%;
   height: inherit;
  
 }
@@ -631,24 +631,28 @@ form label  {
     
 }
 form input{
-    width: 60%;
+    width: 30%;
     height: inherit;
     background-color: #f6be00;
 }
 
 h5{
+    display: flex;
     font-size: 12px;
-    position: absolute;
-    top: 90px;
-    left: 150px;
+    padding-left: 0.5rem;
+    text-align: center;
+    justify-content: center;
+  
+    
 }
 
 .steps p{
-    font-size: 10px;
+    font-size: 0.5rem;
 
 }
 h6{
-    font-size: 12px;
+    font-size: 1rem;
+    margin-top: 0 auto;
 
 }
 .types{
@@ -663,8 +667,8 @@ h6{
 }
 
 .fas{
-    display:flexbox;
-    justify-content: center;
+    display:none;
+    
 }
 
     
