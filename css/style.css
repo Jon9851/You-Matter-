@@ -88,14 +88,15 @@ h2{
  
 }
 .classes img{
-    width: 500px;
+    width: 30rem;
     padding: 2%;
     box-sizing: border-box;
 
 }
 .classes p{
-     text-align: inherit;
+     text-align: center;
      font-size: 20px;
+     margin-right: 2rem;
      color: #f6be00;
      font-family: Oswald;
      padding: auto;
@@ -109,20 +110,21 @@ h2{
 }
 
 .weight img{
-    width: 500px;
+    width: 30rem;
     padding: 2%;
     box-sizing: border-box;
 }
 .weight p{
- 
-     
+
+     text-align: center;
      font-size: 20px;
+     margin-right: 2rem;
      color: #f6be00;
      font-family: Oswald;
+     padding: auto;
+     margin: auto;
      
-   
     }
-
 
 .box{
     display: flex;
@@ -130,18 +132,20 @@ h2{
 
 
 .box img{
-    width: 515px;
+    width: 30rem;
     padding: 2%;
     box-sizing: border-box;
 
 }
 .box p{
    
-     font-size: 20px;
-     color: #f6be00;
-     font-family: Oswald;
-     text-align: inherit;
-     flex-wrap: inherit;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 2rem;
+    color: #f6be00;
+    font-family: Oswald;
+    padding: ;
+    margin:  0 auto;
      
 
 }
@@ -152,19 +156,24 @@ h2{
 }  
 
 .yoga img{
-    width: 500px;
+    
+    width: 30rem;
     padding: 2%;
     box-sizing: border-box;
-
 }
 
 .yoga p{
     
-     font-size: 20px;
-     color: #f6be00;
-     font-family: Oswald;
-  
+    text-align: center;
+    font-size: 20px;
+    margin-right: 2rem;
+    color: #f6be00;
+    font-family: Oswald;
+    padding: auto;
+    margin: auto;
 }
+
+
 
 
 
