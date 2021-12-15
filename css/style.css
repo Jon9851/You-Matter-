@@ -9,8 +9,8 @@ body,html{
 /* nav bar css  */
 .nav  header{
     padding: 22px 20px;
-    height: 50%;
-    font-size: 20px;
+    height: 6rem;
+    font-size: 0.5rem;
     text-transform: uppercase;
     color: #f6be00;
     font-weight: bolder;
@@ -31,7 +31,7 @@ nav{
 nav ul{
     list-style: none;
     float: right;
-    margin: 25px;
+    margin: 3rem;
     padding: 0;
     display: flex;
     color: #f6be00;
@@ -40,7 +40,7 @@ nav ul{
 nav ul li a {
     line-height: 80px;
     color: #f6be00;
-    padding: 12px 30px;
+    padding: 0.5rem 1rem;
     text-decoration: none;
     font-weight: bold;
     font-size: 25px;
