@@ -8,9 +8,9 @@ body,html{
 }
 /* nav bar css  */
 .nav  header{
-    padding: 22px 20px;
-    height: 6rem;
-    font-size: 0.5rem;
+    padding: 1rem 1.5rem;
+    height: 2rem;
+    font-size: 1rem;
     text-transform: uppercase;
     color: #f6be00;
     font-weight: bolder;
@@ -21,8 +21,8 @@ nav{
     top: 0;
     left: 0;
     width: 100%;
-    height: 100px;
-    padding: 10px, 90px;
+    height: 8rem;
+    padding: 1.5rem, 1rem;
     box-sizing: border-box;
     background: rgb(0,0,0,0.1);
     
@@ -48,8 +48,8 @@ nav ul li a {
 }
 
 #img{
-    width: 100%;
-    height: 100vh;
+    width: 100rem;
+    height: 40rem;
     background: url("https://i.postimg.cc/C5jqmN86/ym.jpg");
     background-size: cover;
     background-position: center;
