@@ -323,18 +323,17 @@ form label{
     display: flex;
     width: 6rem;
     height: 2rem;
-    margin-top: 20px;
-    font-size: 20px;
+    font-size: 1rem;
     color: #f6be00;
-    background-color: #f6be00;
+  
 }
 
 form input{
-    width: 6rem;
-    height: 1rem;
+    width: 7rem;
+    height: 1.5rem;
     border:#f6be00 solid 10px;
     border-radius: 2rem;
-    line-height: 0.5rem;
+ 
     
 
 }
