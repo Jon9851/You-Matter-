@@ -297,7 +297,6 @@ h2{
 
 .sign-up{
       width: 3rem;
-      height: 1rem;
       margin: auto;
       border-radius: 3px;
       padding-left: 0.5rem;
@@ -443,8 +442,8 @@ h1{
 
 
 .sign-up{
-    width: 100px;
-    height: 500px;
+    width: 4rem;
+    height: 4rem;
     margin: auto;
     border-radius: 3px;
 }
