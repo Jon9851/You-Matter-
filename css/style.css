@@ -296,9 +296,12 @@ h2{
 /* sign up page css */
 
 .sign-up{
-      width: 3rem;
-      margin: auto;
+  
+      margin: 0 auto;
       border-radius: 3px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
       padding-left: 0.5rem;
       padding-right: 0.5rem;
 
@@ -323,6 +326,7 @@ form label{
     margin-top: 20px;
     font-size: 20px;
     color: #f6be00;
+    background-color: #f6be00;
 }
 
 form input{
@@ -444,8 +448,9 @@ h1{
 .sign-up{
     width: 4rem;
     height: 4rem;
-    margin: auto;
+    margin: 0 auto;
     border-radius: 3px;
+    align-items: center;
 }
 
 
