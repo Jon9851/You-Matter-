@@ -449,7 +449,7 @@ h1{
     height: 4rem;
     margin: 0 auto;
     border-radius: 3px;
-    align-items: center;
+   
 }
 
 
@@ -630,6 +630,11 @@ h4{
     font-size: 10px;
 }
 
+form{
+    margin: 0 auto;
+ 
+    
+}
 form label  {
     font-size: 1rem;
 
