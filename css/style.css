@@ -313,35 +313,39 @@ h4{
 }
 
 form{
-    width: 250px;
-    margin-left: 20px;
+    width: 4rem;
+    margin-left: 2rem;
 }
 
 form label{
     display: flex;
+    width: 6rem;
+    height: 2rem;
     margin-top: 20px;
     font-size: 20px;
     color: #f6be00;
 }
 
 form input{
-    width: 40%;
+    width: 6rem;
+    height: 1rem;
     border:#f6be00 solid 10px;
-    border-radius: 9px;
+    border-radius: 2rem;
+    line-height: 0.5rem;
     
 
 }
 
 button{
-   display: flex;
-   justify-content: center;
-   width: 40%;
-    height: 55px;
-    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    width: 6rem;
+    margin-top: 1rem;
     color: black;
     font-size: medium;
     background-color: #f6be00;
-    border-radius: 9px;
+    border-radius: 2rem;
+    line-height: 3rem;
 }
 
 
@@ -456,27 +460,26 @@ h2{
 
 
 #name input{
-  width: 30%;
+  width: 5rem;
   height: 0.5rem;
   border:#f6be00 solid 10px;
-  border-radius: 9px;
+  border-radius: 2rem;
   
 
 }
 
 #last input{
-    width: 30%;
+    width: 5rem;
     height: 0.5rem;
     border:#f6be00 solid 10px;
-    border-radius: 9px;
-    height: inherit;
+    border-radius: 2rem;
+
     
 }
 
 button{
-  width: 40%;
-  height: inherit;
- 
+  width: 6rem;
+  
 }
 .classes{
     display: flex;
@@ -625,13 +628,13 @@ h4{
 }
 
 form label  {
-    font-size: 10px;
+    font-size: 1rem;
 
 
     
 }
 form input{
-    width: 30%;
+    width: 4rem;
     height: inherit;
     background-color: #f6be00;
 }
