@@ -1,25 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
-body,html{
+
+body,
+html {
     margin: 0;
     padding: 0;
     font-family: Oswald;
     background-color: black;
-  
+
 }
+
 /* nav bar css  */
-.nav  header{
+.nav header {
     padding: 1rem 1.5rem;
     height: 2rem;
     font-size: 1rem;
     text-transform: uppercase;
     color: #f6be00;
     text-decoration: solid;
-    font-weight: bolder; 
-   
+    font-weight: bolder;
+
 
 }
-nav{
-   /*  
+
+nav {
+    /*  
     top: 0;
     left: 0;
     width: 100%;
@@ -27,14 +31,14 @@ nav{
     padding: 1.5rem, 1rem;
     box-sizing: border-box;
   */
-    background: rgb(0,0,0,0.1);
+    background: rgb(0, 0, 0, 0.1);
     display: flex;
     justify-content: space-between;
     margin-left: auto;
-    
+
 }
 
-nav ul{
+nav ul {
     list-style: none;
     padding: 0;
     display: flex;
@@ -42,6 +46,7 @@ nav ul{
     margin-left: auto;
 
 }
+
 nav ul li a {
     color: #f6be00;
     padding: 0.5rem 1rem;
@@ -51,7 +56,7 @@ nav ul li a {
     text-transform: uppercase;
 }
 
-#img{
+#img {
     width: 100rem;
     height: 40rem;
     background: url("https://i.postimg.cc/C5jqmN86/ym.jpg");
@@ -60,7 +65,7 @@ nav ul li a {
 }
 
 
-h1{
+h1 {
     font-family: Oswald;
     font-size: 50px;
     color: #f6be00;
@@ -71,146 +76,152 @@ h1{
     top: 30%;
     transition: none;
     text-align: center;
-    
+
 }
+
 /* classes css */
 
 
-    
-    
 
 
-h2{
+
+
+h2 {
     color: #f6be00;
     text-align: center;
     font-size: x-large;
     font-size: 50px;
 
 }
-.classes{
+
+.classes {
     display: flex;
- 
+
 }
-.classes img{
+
+.classes img {
     width: 30rem;
     padding: 2%;
     box-sizing: border-box;
 
 }
-.classes p{
-     text-align: left;
-     font-size: 1rem;
-     margin-right: 2rem;
-     color: #f6be00;
-     font-family: Oswald;
-     padding: 0 auto;
-     margin: 0  auto;
-     
-     
-}
 
-.weight{
-    display: flex;
-}
-
-.weight img{
-    width: 30rem;
-    padding: 2%;
-    box-sizing: border-box;
-}
-.weight p{
-     text-align: left;
-     font-size: 1rem;
-     margin-right: 2rem;
-     color: #f6be00;
-     font-family: Oswald;
-     padding: 0 auto;
-     margin: 0  auto;
-     
-
-     
-     
-    }
-
-.box{
-    display: flex;
-}
-
-
-.box img{
-    width: 30rem;
-    padding: 2%;
-    box-sizing: border-box;
-  
-}
-.box p{
+.classes p {
     text-align: left;
     font-size: 1rem;
     margin-right: 2rem;
     color: #f6be00;
     font-family: Oswald;
     padding: 0 auto;
-    margin: 0  auto;
+    margin: 0 auto;
+
+
 }
 
-     
-.yoga{
+.weight {
     display: flex;
-}  
+}
 
-.yoga img{
+.weight img {
     width: 30rem;
     padding: 2%;
     box-sizing: border-box;
-    
-    
 }
 
-.yoga p{
+.weight p {
     text-align: left;
     font-size: 1rem;
     margin-right: 2rem;
     color: #f6be00;
     font-family: Oswald;
     padding: 0 auto;
-    margin: 0  auto;
-    
-   
+    margin: 0 auto;
+
+
+
+
+}
+
+.box {
+    display: flex;
 }
 
 
+.box img {
+    width: 30rem;
+    padding: 2%;
+    box-sizing: border-box;
 
-
-
-
-#plan h3{
-     color: #f6be00;
-     font-family: Oswald;
-     font-size: 150%;
-     font-weight: bold;
-     text-align: center;
 }
 
-#plan p{
+.box p {
+    text-align: left;
+    font-size: 1rem;
+    margin-right: 2rem;
     color: #f6be00;
-     font-family: Oswald;
-     font-size: 150%;
-     font-weight: bold;
-     text-align: center;
+    font-family: Oswald;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+
+.yoga {
+    display: flex;
+}
+
+.yoga img {
+    width: 30rem;
+    padding: 2%;
+    box-sizing: border-box;
+
+
+}
+
+.yoga p {
+    text-align: left;
+    font-size: 1rem;
+    margin-right: 2rem;
+    color: #f6be00;
+    font-family: Oswald;
+    padding: 0 auto;
+    margin: 0 auto;
+
+
+}
+
+
+
+
+
+
+#plan h3 {
+    color: #f6be00;
+    font-family: Oswald;
+    font-size: 150%;
+    font-weight: bold;
+    text-align: center;
+}
+
+#plan p {
+    color: #f6be00;
+    font-family: Oswald;
+    font-size: 150%;
+    font-weight: bold;
+    text-align: center;
 
 
 }
 
 /* css sign in  section */
 
-#name{
+#name {
     color: #f6be00;
     font-size: 150%;
-    
+
 
 }
 
-#name input{
+#name input {
     background-color: #f6be00;
     color: black;
     height: 600%;
@@ -218,14 +229,15 @@ h2{
     padding: 5px;
 
 }
-#last{
+
+#last {
     color: #f6be00;
     font-size: 150%;
-    
+
 
 }
 
-#last input{
+#last input {
     background-color: #f6be00;
     color: black;
     height: 600%;
@@ -233,21 +245,22 @@ h2{
     padding: 5px;
 
 }
-#sub{
+
+#sub {
     color: #f6be00;
 
 }
 
 
-#sub input{
+#sub input {
     width: 100px;
     text-align: center;
 }
-   
-    
 
 
-.fab{
+
+
+.fab {
     display: inline-block;
     color: #f6be00;
     font-size: 40px;
@@ -256,36 +269,38 @@ h2{
 
 }
 
-#add p{
+#add p {
     color: #f6be00;
     font-family: Oswald;
     font-size: 150%;
     text-align: center;
-    
+
 }
+
 /* footer and social links css */
 
-.soc{
+.soc {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     position: sticky;
     align-items: baseline;
 
-   
-   
+
+
 }
+
 /* our facilities html */
 
-#photo{
+#photo {
     clear: both;
     line-height: 0;
     column-count: 3;
     column-gap: 1;
 }
 
-#photo img{
-     width: 100%;
+#photo img {
+    width: 100%;
 }
 
 
@@ -295,18 +310,19 @@ h2{
 
 /* sign up page css */
 
-.sign-up{
-  
-      margin: 0 auto;
-      border-radius: 3px;
-     display: flex;
-     justify-content: center;
-     align-items: center;
-      padding-left: 0.5rem;
-      padding-right: 0.5rem;
+.sign-up {
+
+    margin: 0 auto;
+    border-radius: 3px;
+    display: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
 
 }
-h4{
+
+h4 {
     text-align: center;
     font-size: 2rem;
     color: #f6be00;
@@ -314,31 +330,31 @@ h4{
     align-items: center;
 }
 
-form{
+form {
     width: 4rem;
-    margin-left: 2rem;
+    margin-left: 50%;
 }
 
-form label{
+form label {
     display: flex;
     width: 6rem;
     height: 2rem;
     font-size: 1rem;
     color: #f6be00;
-  
+
 }
 
-form input{
+form input {
     width: 7rem;
     height: 1.5rem;
-    border:#f6be00 solid 10px;
+    border: #f6be00 solid 10px;
     border-radius: 2rem;
- 
-    
+
+
 
 }
 
-button{
+button {
     display: flex;
     justify-content: center;
     width: 6rem;
@@ -355,23 +371,24 @@ button{
 
 /* talk to us css */
 
-h5{
+h5 {
     text-align: center;
     font-family: Oswald;
     font-size: 3rem;
     font-weight: bolder;
     color: #f6be00;
-   
-   
+
+
 }
-h6{
+
+h6 {
     font-family: Oswald;
     font-size: 3rem;
     font-weight: bolder;
     color: #f6be00;
     text-align: center;
 }
-   
+
 
 .steps {
     text-align: left;
@@ -379,31 +396,31 @@ h6{
 }
 
 
-#types{
+#types {
     font-size: 16px;
     font-family: Oswald;
 
 }
 
-#types span{
+#types span {
     font-size: 18px;
     font-weight: bold;
 }
 
-#nhs{
+#nhs {
     font-size: 19px;
 }
 
-#link{
+#link {
     position: absolute;
     top: 160%;
     font-size: 20px;
     color: #f6be00;
-   
+
 }
 
-#link a:hover{
-    text-decoration:solid;
+#link a:hover {
+    text-decoration: solid;
 }
 
 
@@ -415,275 +432,282 @@ h6{
 
 
 /* Updated */
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
 
-    .nav header{
+    .nav header {
         font-size: 0.5rem;
         text-align: left;
-       
+
 
     }
-    #img{
+
+    #img {
         width: 19em;
         justify-content: center;
         margin: 0 auto;
-    
+
     }
 
-.nav ul li a{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    font-size: 0.5rem;
-    margin: 0,auto;
+    .nav ul li a {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        font-size: 0.5rem;
+        margin: 0, auto;
+    }
+
+    h1 {
+        font-size: 1rem;
+    }
+
+
+    .sign-up {
+        width: 20%;
+        margin: 0 auto;
+        border-radius: 3px;
+
+    }
+
+
+    h2 {
+        font-size: 15px;
+
+
+    }
+
+    form {
+        width: 0 auto;
+    }
+
+
+    #name input {
+        width: 4rem;
+        height: 0.5rem;
+        border: #f6be00 solid 10px;
+        border-radius: 2rem;
+
+
+    }
+
+    #last input {
+        width: 4rem;
+        height: 0.5rem;
+        border: #f6be00 solid 10px;
+        border-radius: 2rem;
+
+
+    }
+
+    button {
+        width: 6rem;
+
+    }
+
+    .classes {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center;
+        margin: 0 auto;
+
+
+    }
+
+    .classes img {
+        width: 17rem;
+    }
+
+    .classes p {
+        font-size: 1rem;
+        justify-content: center;
+        flex-direction: column;
+        font-family: Oswald;
+        align-items: center;
+        margin: 0 auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
+
+
+
+    }
+
+    .cross {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .cross img {
+        width: 17rem;
+
+
+    }
+
+    .cross p {
+        font-size: 1rem;
+        justify-content: center;
+        flex-direction: column;
+        font-family: Oswald;
+        align-items: center;
+        margin: 0 auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
+
+    }
+
+    .weight {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .weight img {
+        width: 17rem;
+
+    }
+
+    .weight p {
+        font-size: 1rem;
+        justify-content: center;
+        flex-direction: column;
+        font-family: Oswald;
+        align-items: center;
+        margin: 0 auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
+
+    }
+
+
+    .box {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+
+    .box img {
+        width: 17rem;
+
+    }
+
+    .box p {
+        font-size: 1rem;
+        justify-content: center;
+        flex-direction: column;
+        font-family: Oswald;
+        align-items: center;
+        margin: 0 auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
+
+    }
+
+    .yoga {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .yoga img {
+        width: 17rem;
+
+
+    }
+
+    .yoga p {
+        font-size: 1rem;
+        justify-content: center;
+        flex-direction: column;
+        font-family: Oswald;
+        align-items: center;
+        margin: 0 auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
+
+    }
+
+
+    #plan h3 {
+        font-size: 10px;
+    }
+
+    #plan p {
+        font-size: 10px;
+    }
+
+    #add p {
+        font-size: 10px;
+    }
+
+    h4 {
+        font-size: 1rem;
+    }
+
+
+
+
+    form label {
+        font-size: 1rem;
+
+
+
+    }
+
+    form input {
+        width: 4rem;
+        background-color: #f6be00;
+    }
+
+    h5 {
+        display: flex;
+        font-size: 12px;
+        padding-left: 0.5rem;
+        text-align: center;
+        justify-content: center;
+
+
+    }
+
+    .steps p {
+        font-size: 0.5rem;
+
+    }
+
+    h6 {
+        font-size: 1rem;
+        margin-top: 0 auto;
+
+    }
+
+    .types {
+        font-size: 10px;
+    }
 }
-h1{
-    font-size: 1rem;
+
+@media screen and (min-width: 300px) {
+
+    .nav {
+        position: relative;
+    }
+
+    .fas {
+        display: none;
+
+    }
 }
-
-
-.sign-up{
-    width: 4rem;
-    height: 4rem;
-    margin: 0 auto;
-    border-radius: 3px;
-   
-}
-
-
-h2{
-    font-size: 15px;
-
-
-}
-
-
-
-
-#name input{
-  width: 5rem;
-  height: 0.5rem;
-  border:#f6be00 solid 10px;
-  border-radius: 2rem;
-  
-
-}
-
-#last input{
-    width: 5rem;
-    height: 0.5rem;
-    border:#f6be00 solid 10px;
-    border-radius: 2rem;
-
-    
-}
-
-button{
-  width: 6rem;
-  
-}
-.classes{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    align-items: center;
-    margin: 0 auto;
-
-    
-}
-.classes img{
-    width: 17rem;
-}
-
-.classes p{
-    font-size: 1rem;
-    justify-content: center;
-    flex-direction: column;
-    font-family: Oswald;
-    align-items: center;
-    margin: 0 auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    
-
-
-}
-.cross{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    align-items: center;
-    margin: 0 auto;
-}
-
-.cross img{
-    width: 17rem;
-   
-
-}
-
-.cross p {
-    font-size: 1rem;
-    justify-content: center;
-    flex-direction: column;
-    font-family: Oswald;
-    align-items: center;
-    margin: 0 auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-
-}
-
-.weight{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    align-items: center;
-    margin: 0 auto;
-}
-.weight img{
-    width: 17rem;
-  
-}
-   
-.weight p{
-    font-size: 1rem;
-    justify-content: center;
-    flex-direction: column;
-    font-family: Oswald;
-    align-items: center;
-    margin: 0 auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    
-}
-    
-
-.box{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    align-items: center;
-    margin: 0 auto;
-}
-
-
-.box img{
-    width: 17rem;
-  
-}
-.box p{
-    font-size: 1rem;
-    justify-content: center;
-    flex-direction: column;
-    font-family: Oswald;
-    align-items: center;
-    margin: 0 auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-
-}
-
-.yoga{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    align-items: center;
-    margin: 0 auto;
-}
-.yoga img{
-    width: 17rem;
-  
-
-}
-.yoga p{
-    font-size: 1rem;
-    justify-content: center;
-    flex-direction: column;
-    font-family: Oswald;
-    align-items: center;
-    margin: 0 auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-
-}
-
-
-#plan h3 {
-     font-size: 10px;
- }
-#plan p{
-    font-size: 10px;
-}
-#add p{
-    font-size: 10px;
-}
-
-h4{
-    font-size: 10px;
-}
-
-form{
-    margin: 0 auto;
- 
-    
-}
-form label  {
-    font-size: 1rem;
-
-
-    
-}
-form input{
-    width: 4rem;
-    height: inherit;
-    background-color: #f6be00;
-}
-
-h5{
-    display: flex;
-    font-size: 12px;
-    padding-left: 0.5rem;
-    text-align: center;
-    justify-content: center;
-  
-    
-}
-
-.steps p{
-    font-size: 0.5rem;
-
-}
-h6{
-    font-size: 1rem;
-    margin-top: 0 auto;
-
-}
-.types{
-    font-size: 10px;
-}
-}
-    
-@media screen and (min-width: 300px){
-
-.nav{
-    position: relative;
-}
-
-.fas{
-    display:none;
-    
-}
-
-    
-}
-    
-
-
