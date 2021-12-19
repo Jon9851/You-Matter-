@@ -317,8 +317,8 @@ h2 {
     display: column;
     justify-content: center;
     align-items: center;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    padding-left: 50%;
+    padding-right: 50%;
 
 }
 
@@ -332,7 +332,7 @@ h4 {
 
 form {
     width: 4rem;
-    margin-left: 50%;
+    
 }
 
 form label {
