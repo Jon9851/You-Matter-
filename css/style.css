@@ -5,7 +5,7 @@ html {
     margin: 0;
     padding: 0;
     font-family: Oswald;
-    background-color: black;
+    background-color: whitesmoke;
 
 }
 
@@ -295,6 +295,30 @@ h2 {
 
 
 }
+button {
+    display: flex;
+    justify-content: center;
+    width: 8rem;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    color: black;
+    font-size: medium;
+    background-color: #00ff00;
+    border-radius: 2rem;
+    line-height: 3rem;
+    margin-left: 42%;
+}
+#anim p{
+    color: #00ff00;
+    display: flex;
+    font-size: 2rem;
+    align-items: center;
+    margin-left: 30%;
+    text-align: center;
+    text-transform: capitalize;
+    animation-name: You Matter Heathly Mind Healthy Body;
+    animation-duration: 10s;
+}
 
 /* our facilities html */
 
@@ -365,18 +389,7 @@ form input {
 
 }
 
-button {
-    display: flex;
-    justify-content: center;
-    width: 8rem;
-    font-size: 1.5rem;
-    margin-top: 1rem;
-    color: black;
-    font-size: medium;
-    background-color: #00ff00;
-    border-radius: 2rem;
-    line-height: 3rem;
-}
+
 
 
 
