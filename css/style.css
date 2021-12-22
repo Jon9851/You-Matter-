@@ -89,16 +89,18 @@ h1 {
 
 
 
-h2 {
+#h2 {
     color: #00ff00;
     text-align: center;
     font-size: x-large;
     font-size: 50px;
+    background-color: black;
 
 }
 
 .classes {
     display: flex;
+    background-color:  #66cd00;
 
 }
 
@@ -106,6 +108,7 @@ h2 {
     width: 30rem;
     padding: 2%;
     box-sizing: border-box;
+   
 
 }
 
@@ -113,10 +116,13 @@ h2 {
     text-align: left;
     font-size: 1.5rem;
     margin-right: 2rem;
-    color: #00ff00;
+    color: black;
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
+    
+    
+
     
 
 
@@ -124,6 +130,7 @@ h2 {
 
 .weight {
     display: flex;
+    background-color: black;
 }
 
 .weight img {
@@ -136,7 +143,7 @@ h2 {
     text-align: left;
     font-size: 1.5rem;
     margin-right: 2rem;
-    color: #00ff00;
+    color: #66cd00;
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
@@ -149,6 +156,7 @@ h2 {
 
 .box {
     display: flex;
+    background-color: #66cd00;
 }
 
 
@@ -163,7 +171,7 @@ h2 {
     text-align: left;
     font-size: 1.5rem;
     margin-right: 2rem;
-    color: #00ff00;
+    color: black;
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
@@ -173,6 +181,7 @@ h2 {
 
 .yoga {
     display: flex;
+    background-color: black;
 }
 
 .yoga img {
@@ -186,7 +195,7 @@ h2 {
 .yoga p {
     text-align: left;
     font-size: 1.5rem;
-    color: #00ff00;
+    color: #66cd00;
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
