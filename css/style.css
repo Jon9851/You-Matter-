@@ -5,7 +5,7 @@ html {
     margin: 0;
     padding: 0;
     font-family: Oswald;
-    background-color: whitesmoke;
+    background-color: black;
 
 }
 
@@ -16,7 +16,7 @@ html {
     font-size: 1rem;
     text-transform: uppercase;
     text-shadow: 1px;
-    color: #00ff00;
+    color: #f6be00;
     text-decoration: solid;
     font-weight: bolder;
 
@@ -43,13 +43,13 @@ nav ul {
     list-style: none;
     padding: 0;
     display: flex;
-    color: #00ff00;
+    color: #f6be00;
     margin-left: auto;
 
 }
 
 nav ul li a {
-    color: #00ff00;
+    color: #f6be00;
     padding: 0.5rem 1rem;
     text-decoration: none;
     font-weight: bold;
@@ -69,7 +69,7 @@ nav ul li a {
 h1 {
     font-family: Oswald;
     font-size: 50px;
-    color: #00ff00;
+    color: #f6be00;
     text-decoration: solid 1px;
     text-shadow: 1px 1px black;
     width: 100%;
@@ -89,18 +89,19 @@ h1 {
 
 
 
-#h2 {
-    color: #00ff00;
+h2 {
+    color: #f6be00;
     text-align: center;
     font-size: x-large;
     font-size: 50px;
-    background-color: black;
+    
 
 }
 
 .classes {
     display: flex;
-    background-color:  #66cd00;
+    background-color: #f6be00;
+   
 
 }
 
@@ -143,7 +144,7 @@ h1 {
     text-align: left;
     font-size: 1.5rem;
     margin-right: 2rem;
-    color: #66cd00;
+    color: #f6be00;
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
@@ -156,7 +157,7 @@ h1 {
 
 .box {
     display: flex;
-    background-color: #66cd00;
+    background-color: #f6be00;
 }
 
 
@@ -188,6 +189,7 @@ h1 {
     width: 30rem;
     padding: 2%;
     box-sizing: border-box;
+    
 
 
 }
@@ -195,39 +197,43 @@ h1 {
 .yoga p {
     text-align: left;
     font-size: 1.5rem;
-    color: #66cd00;
+    color: #f6be00;
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
+    
+    
     
 
 
 }
 
+#plan{
+    background-color: #f6be00;
+}
 #plan h3 {
-    color: #00ff00;
+    color: black;
     font-family: Oswald;
     font-size: 150%;
     font-weight: bold;
     text-align: center;
+    margin-left: -3%;
 }
 
 #plan p {
-    color: #00ff00;
+    color: black;
     font-family: Oswald;
     font-size: 150%;
     font-weight: bold;
     text-align: center;
+    margin-left: -2%;
+   
 
 
 }
 
-#plan button a:hover{
-    padding-left: 5rem;
-}
 
-
-/* css sign in  section */
+/* css contact section */
 
 #name {
     color: #f6be00;
@@ -294,6 +300,7 @@ h1 {
 
 /* footer and social links css */
 
+
 .soc {
     display: flex;
     flex-direction: row;
@@ -312,22 +319,15 @@ button {
     margin-top: 1rem;
     color: black;
     font-size: medium;
-    background-color: #00ff00;
+    background-color: black;
     border-radius: 2rem;
     line-height: 3rem;
-    margin-left: 42%;
+    margin-left: 44%;
+    color: #f6be00;
+    text-decoration: hidden;
 }
-#anim p{
-    color: #00ff00;
-    display: flex;
-    font-size: 2rem;
-    align-items: center;
-    margin-left: 30%;
-    text-align: center;
-    text-transform: capitalize;
-    animation-name: You Matter Heathly Mind Healthy Body;
-    animation-duration: 10s;
-}
+
+
 
 /* our facilities html */
 
