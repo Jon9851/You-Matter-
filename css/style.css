@@ -378,6 +378,20 @@ h5 {
 
 }
 
+.steps {
+    text-align: left;
+    color: #f6be00;
+    display: flex;
+}
+.steps img{
+    width: 40%;
+    height: 30%;
+}
+.steps p{
+    margin: 1%;
+    padding: 1%;
+  
+}
 h6 {
     font-family: Oswald;
     font-size: 3rem;
@@ -386,22 +400,24 @@ h6 {
     text-align: center;
 }
 
-
-.steps {
-    text-align: left;
-    color: #f6be00;
-}
-
-
 #types {
     font-size: 16px;
     font-family: Oswald;
 
 }
 
+
 #types span {
     font-size: 18px;
     font-weight: bold;
+}
+#types p{
+    text-align: left;
+    font-size: 90%;
+    margin-left: 1rem;
+    color: #f6be00;
+    font-family: Oswald;
+  
 }
 
 #nhs {
