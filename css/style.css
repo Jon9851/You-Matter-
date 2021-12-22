@@ -403,9 +403,14 @@ h6 {
 #types {
     font-size: 16px;
     font-family: Oswald;
+  
 
 }
 
+#types img{
+    width: 30%;
+    margin-left: 0.5rem;
+}
 
 #types span {
     font-size: 18px;
@@ -435,9 +440,13 @@ h6 {
 #link a:hover {
     text-decoration: solid;
 }
-
-
-
+#ymh {
+    width: 100%;
+    height: 50%;
+    background: url ("https://i.postimg.cc/bwQzHJN7/you-matter.jpg");
+    background-size: cover;
+    width: 60%;
+}
 
 
 
