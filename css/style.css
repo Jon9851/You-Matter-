@@ -217,7 +217,7 @@ h2 {
     font-size: 150%;
     font-weight: bold;
     text-align: center;
-    margin-left: -3%;
+    margin-left: 0;
 }
 
 #plan p {
@@ -226,58 +226,11 @@ h2 {
     font-size: 150%;
     font-weight: bold;
     text-align: center;
-    margin-left: -2%;
+    margin-left: 1%;
    
 
 
 }
-
-
-/* css contact section */
-
-#name {
-    color: #f6be00;
-    font-size: 150%;
-
-
-}
-
-#name input {
-    background-color: #f6be00;
-    color: black;
-    height: 600%;
-    width: auto;
-    padding: 5px;
-
-}
-
-#last {
-    color: #f6be00;
-    font-size: 150%;
-
-
-}
-
-#last input {
-    background-color: #f6be00;
-    color: black;
-    height: 600%;
-    width: auto;
-    padding: 5px;
-
-}
-
-#sub {
-    color: #f6be00;
-
-}
-
-
-#sub input {
-    width: 100px;
-    text-align: center;
-}
-
 
 
 
@@ -322,7 +275,7 @@ button {
     background-color: black;
     border-radius: 2rem;
     line-height: 3rem;
-    margin-left: 44%;
+    margin-left: 45%;
     color: #f6be00;
     text-decoration: hidden;
 }
@@ -347,30 +300,36 @@ button {
 
 
 
-/* sign up page css */
+/* contact page css */
 
 .sign-up {
 
-    margin: 0 auto;
-    border-radius: 3px;
+    margin: 2%;
+    border-radius: 2rem;
     display: column;
     justify-content: center;
     align-items: center;
-    padding-left: 50%;
-    padding-right: 50%;
+    margin-left: 35%;
+    border: solid 0.5rem #f6be00;
+    border-bottom: 2rem;
+    margin-right: 35%;
+    margin-top: 5%;
+
+  
 
 }
 
 h4 {
     text-align: center;
     font-size: 2rem;
-    color: #00ff00;
+    color: #f6be00;
     font-weight: bolder;
     align-items: center;
 }
 
 form {
     width: 4rem;
+    margin-left: 24%;
     
 }
 
@@ -379,26 +338,30 @@ form label {
     width: 6rem;
     line-height: 3rem;
     font-size: 1rem;
-    color: #00ff00;
+    color: #f6be00;
+    
 
 }
 
 form input {
     width: 10rem;
     height: 2rem;
-    border: #00ff00 solid 10px;
-    background-color: #00ff00;
+    background-color: #f6be00;
     border-radius: 2rem;
     line-height: 3rem;
     justify-content: 3rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    
 
 
 
 }
 
-
+#message{
+    width: 200px;
+    height: 100px;
+    background-color: #f6be00;
+    border-radius: 0.5rem;
+}
 
 
 
