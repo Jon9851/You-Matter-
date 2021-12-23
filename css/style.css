@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 
-body,
-html {
+body, html {
     margin: 0;
     padding: 0;
     font-family: Oswald;
@@ -77,8 +76,8 @@ h1 {
     top: 30%;
     transition: none;
     text-align: center;
-    
-   
+
+
 
 }
 
@@ -94,14 +93,14 @@ h2 {
     text-align: center;
     font-size: x-large;
     font-size: 50px;
-    
+
 
 }
 
 .classes {
     display: flex;
     background-color: #f6be00;
-   
+
 
 }
 
@@ -109,22 +108,22 @@ h2 {
     width: 30rem;
     padding: 2%;
     box-sizing: border-box;
-   
+
 
 }
 
 .classes p {
     text-align: left;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-right: 2rem;
     color: black;
     font-family: Oswald;
-    padding-left: 0 auto;
+    padding-left: 1rem;
     padding-top: 1rem;
-    
-    
 
-    
+
+
+
 
 
 }
@@ -142,13 +141,13 @@ h2 {
 
 .weight p {
     text-align: left;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-right: 2rem;
     color: #f6be00;
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
-   
+
 
 
 
@@ -170,13 +169,13 @@ h2 {
 
 .box p {
     text-align: left;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-right: 2rem;
     color: black;
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
-    
+
 }
 
 
@@ -189,28 +188,29 @@ h2 {
     width: 30rem;
     padding: 2%;
     box-sizing: border-box;
-    
+
 
 
 }
 
 .yoga p {
     text-align: left;
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: #f6be00;
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
-    
-    
-    
+
+
+
 
 
 }
 
-#plan{
+#plan {
     background-color: #f6be00;
 }
+
 #plan h3 {
     color: black;
     font-family: Oswald;
@@ -227,7 +227,7 @@ h2 {
     font-weight: bold;
     text-align: center;
     margin-left: 1%;
-   
+
 
 
 }
@@ -264,6 +264,7 @@ h2 {
 
 
 }
+
 button {
     display: flex;
     justify-content: center;
@@ -315,7 +316,7 @@ button {
     margin-right: 35%;
     margin-top: 5%;
 
-  
+
 
 }
 
@@ -330,7 +331,7 @@ h4 {
 form {
     width: 4rem;
     margin-left: 24%;
-    
+
 }
 
 form label {
@@ -339,7 +340,7 @@ form label {
     line-height: 3rem;
     font-size: 1rem;
     color: #f6be00;
-    
+
 
 }
 
@@ -350,13 +351,13 @@ form input {
     border-radius: 2rem;
     line-height: 3rem;
     justify-content: 3rem;
-    
+
 
 
 
 }
 
-#message{
+#message {
     width: 200px;
     height: 100px;
     background-color: #f6be00;
@@ -364,7 +365,7 @@ form input {
 }
 
 
-#btt{
+#btt {
     font-size: 1.5rem;
     margin-top: 1rem;
     border-radius: 2rem;
@@ -389,15 +390,18 @@ h5 {
     color: #f6be00;
     display: flex;
 }
-.steps img{
+
+.steps img {
     width: 40%;
     height: 30%;
 }
-.steps p{
+
+.steps p {
     margin: 1%;
     padding: 1%;
-  
+
 }
+
 h6 {
     font-family: Oswald;
     font-size: 3rem;
@@ -409,11 +413,11 @@ h6 {
 #types {
     font-size: 16px;
     font-family: Oswald;
-  
+
 
 }
 
-#types img{
+#types img {
     width: 30%;
     margin-left: 0.5rem;
 }
@@ -422,13 +426,14 @@ h6 {
     font-size: 18px;
     font-weight: bold;
 }
-#types p{
+
+#types p {
     text-align: left;
     font-size: 90%;
     margin-left: 1rem;
     color: #f6be00;
     font-family: Oswald;
-  
+
 }
 
 #nhs {
@@ -446,16 +451,17 @@ h6 {
 #link a:hover {
     text-decoration: solid;
 }
-#matter{
+
+#matter {
     overflow: hidden;
     display: inline;
     max-width: 30%;
     margin: 7%;
-   
+
 
 
 }
-  
+
 /* Updated */
 @media screen and (max-width: 768px) {
 
@@ -482,21 +488,22 @@ h6 {
         font-size: 0.5rem;
         margin: 0, auto;
     }
- .fas{
+
+    .fas {
         font-weight: 900;
         font-size: 0.5rem;
         display: flex;
         margin-top: -1rem;
         float: right;
     }
- }
+
     h1 {
         font-size: 1rem;
     }
 
 
     .sign-up {
-       
+
         margin: 0 auto;
         border-radius: soild 0.5rem #f6be00;
 
@@ -508,7 +515,7 @@ h6 {
 
 
     }
-    
+
 
 
 
@@ -524,11 +531,12 @@ h6 {
     }
 
     .classes img {
-        width: rem;
-    
+        width: 17rem;
+
     }
+
     .classes p {
-        font-size: 0.5rem;
+        font-size: 50%;
         justify-content: center;
         flex-direction: column;
         font-family: Oswald;
@@ -536,6 +544,7 @@ h6 {
         margin: 0 auto;
         padding-left: 1rem;
         padding-right: 1rem;
+        margin-left: -0.5rem;
 
 
 
@@ -557,7 +566,7 @@ h6 {
     }
 
     .cross p {
-        font-size: 1rem;
+        font-size: 50%;
         justify-content: center;
         flex-direction: column;
         font-family: Oswald;
@@ -565,6 +574,8 @@ h6 {
         margin: 0 auto;
         padding-left: 1rem;
         padding-right: 1rem;
+        margin-left: -0.5rem;
+       
 
     }
 
@@ -583,7 +594,7 @@ h6 {
     }
 
     .weight p {
-        font-size: 1rem;
+        font-size: 50%;
         justify-content: center;
         flex-direction: column;
         font-family: Oswald;
@@ -591,6 +602,7 @@ h6 {
         margin: 0 auto;
         padding-left: 1rem;
         padding-right: 1rem;
+        margin-left: -0.5rem;
 
     }
 
@@ -611,7 +623,8 @@ h6 {
     }
 
     .box p {
-        font-size: 1rem;
+
+        font-size: 50%;
         justify-content: center;
         flex-direction: column;
         font-family: Oswald;
@@ -619,7 +632,7 @@ h6 {
         margin: 0 auto;
         padding-left: 1rem;
         padding-right: 1rem;
-
+        margin-left: -0.5rem;
     }
 
     .yoga {
@@ -638,7 +651,7 @@ h6 {
     }
 
     .yoga p {
-        font-size: 1rem;
+        font-size: 50%;
         justify-content: center;
         flex-direction: column;
         font-family: Oswald;
@@ -646,6 +659,8 @@ h6 {
         margin: 0 auto;
         padding-left: 1rem;
         padding-right: 1rem;
+        margin-left: -0.5rem;
+        
 
     }
 
@@ -661,6 +676,7 @@ h6 {
     #add p {
         font-size: 10px;
     }
+
     button {
         margin-left: 6rem;
         width: 0 auto;
@@ -680,21 +696,24 @@ h6 {
         width: 0 auto;
         background-color: #f6be00;
     }
-.sign-up form{
-    width: 2rem;
-}
-#btt{
-    margin-left: -5rem;
-}
-iframe{
-    width: 100%;
-    height: 40%;
-}
 
-#photo{
-    column-count: 1;
+    .sign-up form {
+        width: 2rem;
+    }
 
-}
+    #btt {
+        margin-left: -5rem;
+    }
+
+    iframe {
+        width: 100%;
+        height: 40%;
+    }
+
+    #photo {
+        column-count: 1;
+
+    }
 
     h5 {
         display: flex;
@@ -720,14 +739,14 @@ iframe{
     .types p {
         font-size: 1rem;
     }
-    #matter{
+
+    #matter {
         width: 20%;
     }
-    #matter img{
+
+    #matter img {
         column-count: 2;
         width: 45%;
         margin-left: -2%;
     }
 }
-
-
