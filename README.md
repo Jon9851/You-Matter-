@@ -4,4 +4,12 @@ You matter is a fictional gym which deals with your fitness and mental health as
 
 Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" target="_blank" rel="noopner">You Matter</a>
 
-![responsiveness] (assets/readme-images/responsive.png)
+![responsiveness](assets/readme-images/responsive.png)
+
+* [**User Experience UX**](<#user-experience-ux>)
+    *  [User Stories](<#user-stories>)
+    * [Wireframes](<#wireframes>)
+    * [Site Structure](<#site-structure>)
+    * [Design Choices](<#design-choices>)
+    *  [Fonts used](<#Fonts>)
+    *  [Colour Scheme](<#colour-scheme>)
