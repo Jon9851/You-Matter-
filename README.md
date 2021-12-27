@@ -51,3 +51,4 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
 The wireframes for you matter were produced in [Balsamiq](https://balsamiq.com). There are frames for a full width display and a small mobile device. The final site varies slightly from the wireframes due to bugs and desgin changes during development that occured during the creation process. 
 
 ![Wireframe Desktop](assets/readme-images/wireframe.png)
+![Wireframe Mobile](assets/readme-images/mobilewireframe.png)
