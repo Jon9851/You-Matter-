@@ -23,7 +23,6 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
          * [Classes](<#Classes>)
          * [Footer](<#footer>)
     * [**Contact**](<#Contact>)
-         * Nav Bar
          * Heading
          * Contact Form
          * Location and Address
@@ -58,7 +57,7 @@ The wireframes for you matter were produced in [Balsamiq](https://balsamiq.com).
 ## Design Chocies
 
 * #### Fonts
-The font that I choose was Oswald due to viusal impact the font gave me on my prjoect. I tested out serveal fonts and struggled visibility on the overlay on the nav bar. Oswlad font is used for all the text on the pages.
+* The font that I choose was Oswald due to viusal impact the font gave me on my prjoect. I tested out serveal fonts and struggled visibility on the overlay on the nav bar. Oswlad font is used for all the text on the pages.
 
 * The style of you matter was choosen for the simple design of the website which is easy to follow and use.
 
@@ -66,5 +65,4 @@ The font that I choose was Oswald due to viusal impact the font gave me on my pr
 * Black and Yellow where eventually choosen for the project with some small, degsin changes to the sections due add more color to the pages. The orginal color that i started with was red and black this was changed to visibilty on the pages as the text was hard to read in certain places. 
 
 ![Hex Color](assets/readme-images/hexcolor.png)
-
 
