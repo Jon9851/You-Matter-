@@ -62,7 +62,7 @@ The wireframes for you matter were produced in [Balsamiq](https://balsamiq.com).
 * The style of you matter was choosen for the simple design of the website which is easy to follow and use.
 
 * ### Color Scheme 
-* Black and Yellow where eventually choosen for the project with some small, degsin changes to the sections due add more color to the pages. The orginal color that i started with was red and black this was changed to visibilty on the pages as the text was hard to read in certain places. 
+* Black and Yellow where eventually choosen for the project with some small, degsin changes to the sections due to the color visibilty on the pages. The orginal color that i started with was red and black this was changed to visibilty on the pages as the text was hard to read in certain places. 
 
 ![Hex Color](assets/readme-images/hexcolor.png)
 
