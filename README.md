@@ -23,7 +23,11 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
     * [**Contact**](<#contact>)
          * [Form](<#form>)
     * [Facilities](<#facilities>)
-    * [Talk](<#talk>))
+         * [Gallery](<#gallery>)
+    * [Talk to US](<#talk>))
+         * Images
+         * Text
+         * NHS Link
     * [**Form Confirmation**](<#form-confirmation>)
     * [**Future Features**](<#future-features>)
     * [**Technologies Used**](<#technologies-used>)
@@ -99,6 +103,33 @@ You Matter site is design for simplicity, and easy to use features. You matter s
 ## Contact
   
   ### From 
+   
    * The contacts page on you matter deisgn is simple and easy to use. The page contains a 3 input boxes and a message box. Underneath the form box is a sumbit button which reloads the page once the form has been filled in.
 
 ![Contact Us](assets/readme-images/form.png)
+
+## Our facilities
+ 
+ ### Gallery
+
+   * Our facililtes contains a differnet images on what facilities the gym has to offer, aswell as insprational pictures. The pages contains 12 images.
+
+![Our Facilitites](assets/readme-images/our.png) 
+
+## Talk to US
+
+  ### Images
+   
+   * Talk to us page contains 3 images which are loacted on the top left of the page and at the bottom of the page. These images are welcoming and shows poeple aren`t alone agianst the fight against mental health.
+
+  ### Text
+
+   * The text at  the top of the page is related to the 6 step of recovery form mental health and provides information the differents steps to recovery.
+
+   * The text on the rest of the page refer to two different types of mental health.
+
+   ### NHS
+
+   * Included in the page is a link to the NHS website which has more information on the verious types of mental health as well as inofrmation on the road to recovery.
+
+![Talk to US](assets/readme-images/talkto.png)
