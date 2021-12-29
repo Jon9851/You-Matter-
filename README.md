@@ -17,26 +17,17 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
     * [**Features**](<#features>)
     * [**Home**](<#navigation-menu>)
          * [Navigation menu](<#navigation-menu>)
-         * [Contact](<#contact>)
-         * [Facilities](<#facilities>)
-         * [Talk](<#talk>)
-         * [Classes](<#Classes>)
+         * [Classes](<#classes>)
+         * [Contact Button](<#contact>)
          * [Footer](<#footer>)
-    * [**Contact**](<#Contact>)
-         * Heading
-         * Contact Form
-         * Location and Address
-    * [Facilities](#<facilities>)
-         * Images 
-         * Footer
-    * [Talk](#<talk>)
-          * Iamges
-          * Information on mental health 
-          * Web link to the nhs website
+    * [**Contact**](<#contact>)
+    * [Facilities](<#facilities>)
+    * [Talk](<#talk>)
+    * [Footer](<#footer>)
     * [**Form Confirmation**](<#form-confirmation>)
     * [**Future Features**](<#future-features>)
     * [**Technologies Used**](<#technologies-used>)
-    * [**Bugs**] (<#bugs>)
+    * [**Bugs**](<#bugs>)
     * [**Testing**](<#testing>)
     * [**Deployment**](<#deployment>)
     * [**Credits**](<#credits>)
@@ -52,7 +43,7 @@ The wireframes for you matter were produced in [Balsamiq](https://balsamiq.com).
 ![Wireframe Desktop](assets/readme-images/wireframe.png)
 ![Wireframe Mobile](assets/readme-images/mobilewireframe.png)
 
-[Back to the top](<#Content>)
+[Back to the top](<#content>)
 
 ## Design Chocies
 
@@ -66,3 +57,39 @@ The wireframes for you matter were produced in [Balsamiq](https://balsamiq.com).
 
 ![Hex Color](assets/readme-images/hexcolor.png)
 
+[Contents](<#contents>)
+
+# Features
+
+You Matter site is design for simplicity, and easy to use features. You matter site contains a navigiation menu with icon displayed next to the individual pages names. The site also contains a contact form with a message box and a gallery dispalying all the facilities the gym has to offer. 
+
+## Home
+   ### Navigation Menu 
+ 
+   * Situated at the top lfet of the site is the gym name and opening times. The navigation menu is loacted at the top right of the site. 
+   * The naviagtion menu includes four differents links to the indavidual pages of the site. All the links a full fuctional.
+   * The main images for the site is a picture of gym equipment and text overlayed on top.
+
+![Homepage](assets/readme-images/homepage.png)
+
+   
+   ### Classes
+
+   * The classes section contains imformation about the diffrent types of classes that the gym has to offer, which includes a breif insight in to the classes aswell as date times the classes are on. The text is situated on the right hand site the image.
+   * Each classes has different photo to acompany the text information.
+
+ ![Classes](assets/readme-images/classes.png)  
+
+  ### Contact Button
+   
+   * Below the classes section is a contact button which directly link to the contacts pages.
+   The buttons helps make the site more user friendly. 
+
+![Contact Button](assets/readme-images/contactb.png)
+
+### Footer
+ 
+ * The footer on home, our facilities and talk pages just contain social media icons which are direct links to Facebook,Instagram and Twitter.
+ * The footer on the contacts us page contains a map as well the social media icons included in the rest of the site.
+
+![Footer](assets/readme-images/footer.png)
