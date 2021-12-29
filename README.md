@@ -21,9 +21,9 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
          * [Contact Button](<#contact>)
          * [Footer](<#footer>)
     * [**Contact**](<#contact>)
+         * [Form](<#form>)
     * [Facilities](<#facilities>)
-    * [Talk](<#talk>)
-    * [Footer](<#footer>)
+    * [Talk](<#talk>))
     * [**Form Confirmation**](<#form-confirmation>)
     * [**Future Features**](<#future-features>)
     * [**Technologies Used**](<#technologies-used>)
@@ -93,3 +93,12 @@ You Matter site is design for simplicity, and easy to use features. You matter s
  * The footer on the contacts us page contains a map as well the social media icons included in the rest of the site.
 
 ![Footer](assets/readme-images/footer.png)
+
+[Contents](<#contents>)
+
+## Contact
+  
+  ### From 
+   * The contacts page on you matter deisgn is simple and easy to use. The page contains a 3 input boxes and a message box. Underneath the form box is a sumbit button which reloads the page once the form has been filled in.
+
+![Contact Us](assets/readme-images/form.png)

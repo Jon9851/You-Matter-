@@ -43,6 +43,7 @@ nav ul {
     padding: 0;
     display: flex;
     color: #f6be00;
+    text-shadow: 1px 1px black;
     margin-left: auto;
 
 }
