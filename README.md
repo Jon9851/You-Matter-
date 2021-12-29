@@ -21,14 +21,13 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
          * [Contact Button](<#contact>)
          * [Footer](<#footer>)
     * [**Contact**](<#contact>)
-         * [Form](<#form>)
+         * [Form](<#contact>)
     * [Facilities](<#facilities>)
-         * [Gallery](<#gallery>)
-    * [Talk to US](<#talk>))
-         * Images
-         * Text
-         * NHS Link
-    * [**Form Confirmation**](<#form-confirmation>)
+         * [Gallery](<#facilities>)
+    * [Talk to US](<#talk>)
+         * [Images](<#talk-to-us>)
+         * [Text](<#talk-to-us>)
+         * [NHS Link](<#talk-to-us>)
     * [**Future Features**](<#future-features>)
     * [**Technologies Used**](<#technologies-used>)
     * [**Bugs**](<#bugs>)
@@ -76,6 +75,8 @@ You Matter site is design for simplicity, and easy to use features. You matter s
 
 ![Homepage](assets/readme-images/homepage.png)
 
+[Contents](<#contents>)
+
    
    ### Classes
 
@@ -90,7 +91,8 @@ You Matter site is design for simplicity, and easy to use features. You matter s
    The buttons helps make the site more user friendly. 
 
 ![Contact Button](assets/readme-images/contactb.png)
-
+ 
+ [Contents](<#contents>)
 ### Footer
  
  * The footer on home, our facilities and talk pages just contain social media icons which are direct links to Facebook,Instagram and Twitter.
@@ -108,6 +110,7 @@ You Matter site is design for simplicity, and easy to use features. You matter s
 
 ![Contact Us](assets/readme-images/form.png)
 
+[Contents](<#contents>)
 ## Our facilities
  
  ### Gallery
@@ -133,3 +136,20 @@ You Matter site is design for simplicity, and easy to use features. You matter s
    * Included in the page is a link to the NHS website which has more information on the verious types of mental health as well as inofrmation on the road to recovery.
 
 ![Talk to US](assets/readme-images/talkto.png)
+
+[Contents](<#contents>)
+## Future Features
+
+  * A personal trainers page with informations and workout plans.
+  * A sign up page 
+  * A video gallery page 
+
+ # Technologies Used
+   
+* [HTML5](https://html.spec.whatwg.org/) - Used to create  the contents and structure for the   website.
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) -Used to create the styling.
+* [Balsamiq](https://balsamiq.com/wireframes/) - used to create the wireframes.
+* [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
+* [Github](https://github.com/) - used to host and edit the website code.
+
+
