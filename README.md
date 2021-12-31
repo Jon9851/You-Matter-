@@ -32,6 +32,7 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
     * [**Technologies Used**](<#technologies-used>)
     * [**Bugs**](<#bugs>)
     * [**Testing**](<#testing>)
+    * [** Accessibilty](<#accessibility>)
     * [**Deployment**](<#deployment>)
     * [**Credits**](<#credits>)
     * [**Content**](<#content>)
@@ -169,7 +170,10 @@ W3C markup validator and W3C CSS validator were used to test and vailidate all t
 ![Testing on W3C Html and CSS](assets/readme-images/w3c.png)
 
 
+# Accessibilty
+Accessibilty was tested on lighthouse during the development of You Matter.
 
+![Accessibilty Testing](assets/readme-images/access.png)
 # Deployment
 
   ### **Deployment**
@@ -196,3 +200,6 @@ The live link will take you directly to **You Matter** repository - https://jon9
 
 [Contents](<#contents>)
 
+# Acknowledgements
+ 
+ The site was cerated for my milestone project 1 for the [Code Institute](https://codeinstitute.net/) Full Stack Software Developer diploma. I would like to thank all the tutors at the code institute for their help during the development of my first milestone project. I would aslo like to thank [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his guidence and help as his feedback was extremely key in completing my first milestone project.
