@@ -156,7 +156,9 @@ You Matter site is design for simplicity, and easy to use features. You matter s
 [Contents](<#contents>)
 
 # Testing 
+W3C markup validator and W3C CSS validator were used to test and vailidate all the code on all 4  pages on of You Matter to ensure that there were no syntax errors.
 
+![Testing on W3C Html and CSS](assets/readme-images/w3c.png)
 
 
 
@@ -168,5 +170,10 @@ You Matter site is design for simplicity, and easy to use features. You matter s
   1. on the github repository, naviagte to **Settings** tab.
   2. Once on setting page, naviagte to **Pages** on the left hand side of the screen second from the bottom.
   3. Under **Source**, select the branch to **main**, then click **save**.
-  4. master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  4.  once you have selected the main branch, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+![GitHub pages for deployment](assets/readme-images/github.jpg)
+
+The live link will take you directly to **You Matter** repository - https://jon9851.github.io/You-Matter-/
+
 
