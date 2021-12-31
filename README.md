@@ -153,3 +153,20 @@ You Matter site is design for simplicity, and easy to use features. You matter s
 * [Github](https://github.com/) - used to host and edit the website code.
 
 
+[Contents](<#contents>)
+
+# Testing 
+
+
+
+
+# Deployment
+
+  ### **Deployment**
+
+  The site was deployed using GitHub. THe following step will depoly You matter site.
+  1. on the github repository, naviagte to **Settings** tab.
+  2. Once on setting page, naviagte to **Pages** on the left hand side of the screen second from the bottom.
+  3. Under **Source**, select the branch to **main**, then click **save**.
+  4. master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
