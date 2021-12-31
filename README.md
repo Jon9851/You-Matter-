@@ -155,6 +155,14 @@ You Matter site is design for simplicity, and easy to use features. You matter s
 
 [Contents](<#contents>)
 
+# BUGS
+The orginal design for you matter change a lot due to bugs and learning curves i faced during the development of this project. 
+
+  1. Postion absoulte caused many issues when it came to my meida query moving everything out of alignment. I had to rewrite the code ,and remove postion abosulte from the source code.
+  2. Button alignment on some the screen isn`t lined up correctly.
+  3. Images size on tablet device doesn`t render with the correct width.
+  4. During testing i had created a button inside a elemnet which caused errors during the validation so the code had to be rewritten.
+
 # Testing 
 W3C markup validator and W3C CSS validator were used to test and vailidate all the code on all 4  pages on of You Matter to ensure that there were no syntax errors.
 
@@ -176,4 +184,15 @@ W3C markup validator and W3C CSS validator were used to test and vailidate all t
 
 The live link will take you directly to **You Matter** repository - https://jon9851.github.io/You-Matter-/
 
+[Contents](<#contents>)
+
+### Credits
+* The font used came from [Google Fonts](https://fonts.google.com/).
+* The map used is from [Google Maps](https://www.google.com/maps).
+* Balsamiq was used to create the wireframes [Balsamiq](https://balsamiq.com/)
+
+### Media
+   * Images used came from [unsplash](https://unsplash.com/)
+
+[Contents](<#contents>)
 
