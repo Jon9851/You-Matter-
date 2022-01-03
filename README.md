@@ -32,7 +32,7 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
     * [**Technologies Used**](<#technologies-used>)
     * [**Bugs**](<#bugs>)
     * [**Testing**](<#testing>)
-    * [** Accessibilty](<#accessibility>)
+    * [**[Accessibilty](<#accessibility>)
     * [**Deployment**](<#deployment>)
     * [**Credits**](<#credits>)
     * [**Content**](<#content>)
