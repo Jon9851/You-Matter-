@@ -12,10 +12,10 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
     * [Wireframes](<#wireframes>)con
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
-    *  [Fonts used](<#Fonts>)
-    *  [Colour Scheme](<#colour-scheme>)
+    * [Fonts used](<#Fonts>)
+    * [Colour Scheme](<#colour-scheme>)
     * [**Features**](<#features>)
-    * [**Home**](<#navigation-menu>)
+         * [Home](<#navigation-menu>)
          * [Navigation menu](<#navigation-menu>)
          * [Classes](<#classes>)
          * [Contact Button](<#contact>)
@@ -28,16 +28,16 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
          * [Images](<#talk-to-us>)
          * [Text](<#talk-to-us>)
          * [NHS Link](<#talk-to-us>)
-    * [**Future Features**](<#future-features>)
-    * [**Technologies Used**](<#technologies-used>)
-    * [**Bugs**](<#bugs>)
-    * [**Testing**](<#testing>)
-    * [**[Accessibilty](<#accessibility>)
-    * [**Deployment**](<#deployment>)
-    * [**Credits**](<#credits>)
-    * [**Content**](<#content>)
-    * [**Media**](<#media>)
-    * [**Acknowledgements**](<#acknowledgements>)                
+* [**Future Features**](<#future-features>)
+* [**Technologies Used**](<#technologies-used>)  
+* [**Testing**](<#testing>)
+      * [Bugs](<#bugs>)
+      * [Accessibilty](<#accessibility>)
+* [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
+* [**Content**](<#content>)
+* [**Media**](<#media>)
+* [**Acknowledgements**](<#acknowledgements>)                
 
 # User Experience (UX)
 
@@ -156,25 +156,26 @@ You Matter site is design for simplicity, and easy to use features. You matter s
 
 [Contents](<#contents>)
 
+
+
+## Testing 
+W3C markup validator and W3C CSS validator were used to test and vailidate all the code on all 4  pages on of You Matter to ensure that there were no syntax errors.
+
+![Testing on W3C Html and CSS](assets/readme-images/w3c.png)
 # BUGS
 The orginal design for you matter change a lot due to bugs and learning curves i faced during the development of this project. 
 
   1. Postion absoulte caused many issues when it came to my meida query moving everything out of alignment. I had to rewrite the code ,and remove postion abosulte from the source code.
   2. Button alignment on some the screen isn`t lined up correctly.
-  3. Images size on tablet device doesn`t render with the correct width.
+  3. Images size on tablet device doesn`t render with the correct width. Text goes out of alignnment on ipad. 
   4. During testing i had created a button inside a elemnet which caused errors during the validation so the code had to be rewritten.
-
-# Testing 
-W3C markup validator and W3C CSS validator were used to test and vailidate all the code on all 4  pages on of You Matter to ensure that there were no syntax errors.
-
-![Testing on W3C Html and CSS](assets/readme-images/w3c.png)
 
 
 # Accessibilty
-Accessibilty was tested on lighthouse during the development of You Matter.
+Accessibilty was tested on lighthouse during the development of You Matter. The results are displayed below.
 
 ![Accessibilty Testing](assets/readme-images/access.png)
-# Deployment
+## Deployment
 
   ### **Deployment**
 
@@ -185,8 +186,21 @@ Accessibilty was tested on lighthouse during the development of You Matter.
   4.  once you have selected the main branch, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ![GitHub pages for deployment](assets/readme-images/github.jpg)
-
+  
 The live link will take you directly to **You Matter** repository - https://jon9851.github.io/You-Matter-/
+  
+  ### **Clone  Repository**
+   To Clone a repository use the following steps to guide you throught it.
+   1. Under the repository’s name, click on the code tab.
+   2. click on the clipboard icon to copy the given URL.
+   3. In your IDE of choice, open Git Bash.
+   4. Change the current working directory to the location where you want the cloned directory to be made.
+   5. Type git clone, and then paste the URL copied from GitHub.
+   6. Press enter and the local clone will be created.
+
+   ![clone Image ](assets/readme-images/clone.png)
+
+
 
 [Contents](<#contents>)
 
