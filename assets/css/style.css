@@ -12,7 +12,7 @@ body, html {
 .nav header {
     padding: 1rem 1.5rem;
     height: 2rem;
-    font-size: 1rem;
+    font-size: 2rem;
     text-transform: uppercase;
     text-shadow: 1px;
     color: #f6be00;
@@ -22,15 +22,14 @@ body, html {
 
 }
 
-nav {
-    /*  
+nav { 
     top: 0;
     left: 0;
     width: 100%;
-    height: 2rem;
-    padding: 1.5rem, 1rem;
+    padding: 2rem, 2rem;
+    margin-right: 1rem;
     box-sizing: border-box;
-  */
+  
     background: rgb(0, 0, 0, 0.1);
     display: flex;
     justify-content: space-between;
@@ -55,6 +54,12 @@ nav ul li a {
     font-weight: bold;
     font-size: 25px;
     text-transform: uppercase;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+nav .current{
+    border: solid 1px #f6be00;
+
 }
 
 #img {
@@ -149,11 +154,6 @@ h3{
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
-
-
-
-
-
 }
 
 .box {
@@ -202,19 +202,7 @@ h3{
     font-family: Oswald;
     padding-left: 0 auto;
     padding-top: 1rem;
-
-
-
-
-
 }
-
-
-
-
-
-
-
 #plan {
     background-color: #f6be00;
     padding-bottom: 1.5rem;
@@ -229,36 +217,6 @@ h3{
     margin-left: 0;
 }
 
-#plan p {
-    color: black;
-    font-family: Oswald;
-    font-size: 150%;
-    font-weight: bold;
-    text-align: center;
-    margin-left: 1%;
-
-
-
-}
-
-
-
-.fab {
-    display: inline-block;
-    color: #f6be00;
-    font-size: 40px;
-    text-align: center;
-
-
-}
-
-#add p {
-    color: #f6be00;
-    font-family: Oswald;
-    font-size: 150%;
-    text-align: center;
-
-}
 .btn{
     background-color: black;
     color: #f6be00;
@@ -273,13 +231,9 @@ h3{
 
 
 .soc {
-    display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content:space-between;
     position: sticky;
-    align-items: baseline;
-
-
 
 }
 
@@ -298,9 +252,18 @@ button {
     color: #f6be00;
     text-decoration: hidden;
 }
-
-
-
+footer p{
+    color: #f6be00;
+    margin: 3px;
+    padding: 3px;
+    text-align: center;
+}
+.fab {
+    color: #f6be00;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 23%;
+}
 /* our facilities html */
 
 #photo {
@@ -313,11 +276,6 @@ button {
 #photo img {
     width: 100%;
 }
-
-
-
-
-
 
 /* contact page css */
 
@@ -358,8 +316,6 @@ form label {
     line-height: 3rem;
     font-size: 1rem;
     color: #f6be00;
-
-
 }
 
 form input {
@@ -369,10 +325,6 @@ form input {
     border-radius: 2rem;
     line-height: 3rem;
     justify-content: 3rem;
-
-
-
-
 }
 
 #message {
@@ -381,7 +333,6 @@ form input {
     background-color: #f6be00;
     border-radius: 0.5rem;
 }
-
 
 #btt {
     font-size: 1.5rem;
@@ -399,8 +350,6 @@ h5 {
     font-size: 3rem;
     font-weight: bolder;
     color: #f6be00;
-
-
 }
 
 .steps {
