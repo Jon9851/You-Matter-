@@ -266,19 +266,26 @@ footer p{
 }
 /* our facilities html */
 
+#h5{
+    margin-left: 36rem;
+    margin-top: -9rem;
+}
 #photo {
     clear: both;
-    line-height: 0;
     column-count: 3;
     column-gap: 1;
+    margin-top: 10rem;
 }
 
 #photo img {
     width: 100%;
 }
 /* videos css */
-iframe{
+#iframe{
     display: block;
+    clear: both;
+    column-count: 3;
+    column-gap: 1;
 }
 
 /* contact page css */

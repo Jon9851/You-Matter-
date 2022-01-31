@@ -9,7 +9,7 @@ Welcome to your guide throught <a href="https://jon9851.github.io/You-Matter-/" 
 # Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
-  * [Wireframes](<#wireframes>)con
+  * [Wireframes](<#wireframes>)
   * [Site Structure](<#site-structure>)
   * [Design Choices](<#design-choices>)
   * [Fonts used](<#Fonts>)
@@ -211,6 +211,7 @@ The live link will take you directly to **You Matter** repository - https://jon9
 
 ### Media
    * Images used came from [unsplash](https://unsplash.com/)
+   * Videos used came from [youtube](http://youtube.com)
 
 [Contents](<#contents>)
 
