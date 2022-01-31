@@ -276,6 +276,10 @@ footer p{
 #photo img {
     width: 100%;
 }
+/* videos css */
+iframe{
+    display: block;
+}
 
 /* contact page css */
 
