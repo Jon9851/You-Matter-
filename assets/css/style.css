@@ -12,9 +12,9 @@ body, html {
 .nav header {
     padding: 1rem 1.5rem;
     height: 2rem;
-    font-size: 2rem;
+    font-size: 1rem;
     text-transform: uppercase;
-    text-shadow: 1px;
+    text-shadow: 1px 1px black;
     color: #f6be00;
     text-decoration: solid;
     font-weight: bolder;
@@ -26,7 +26,7 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 2rem, 2rem;
+    padding: 2rem 2rem;
     margin-right: 1rem;
     box-sizing: border-box;
   
@@ -103,25 +103,20 @@ h3{
     margin-right: 2rem;
     color: #f6be00;
     font-family: Oswald;
-    padding-left: 0 auto;
-    padding-top: -1rem;
+    padding-left: 0;
+    padding-top: 1rem;
 
 }
 .classes {
     display: flex;
     background-color: black;
-    
-    
-
-
+   
 }
 
 .classes img {
     width: 30rem;
     padding: 2%;
     box-sizing: border-box;
-
-
 }
 
 .classes  p {
@@ -130,8 +125,8 @@ h3{
     margin-right: 2rem;
     color: #f6be00;
     font-family: Oswald;
-    padding-left: 0 auto;
-    padding-top: -1rem;
+    padding-left: 0;
+    padding-top: 1rem;
 
 }
 
@@ -152,8 +147,9 @@ h3{
     margin-right: 2rem;
     color: #f6be00;
     font-family: Oswald;
-    padding-left: 0 auto;
+    padding-left: 0;
     padding-top: 1rem;
+    
 }
 
 .box {
@@ -175,7 +171,7 @@ h3{
     margin-right: 2rem;
     color: #f6be00;
     font-family: Oswald;
-    padding-left: 0 auto;
+    padding-left: 0;
     padding-top: 1rem;
 
 }
@@ -200,7 +196,7 @@ h3{
     font-size: 1rem;
     color: #f6be00;
     font-family: Oswald;
-    padding-left: 0 auto;
+    padding-left: 0;
     padding-top: 1rem;
 }
 #plan {
@@ -250,7 +246,7 @@ button {
     line-height: 3rem;
     margin-left: 45%;
     color: #f6be00;
-    text-decoration: hidden;
+ 
 }
 footer p{
     color: #f6be00;
@@ -273,7 +269,7 @@ footer p{
 #photo {
     clear: both;
     column-count: 3;
-    column-gap: 1;
+    column-gap: 5px;
     margin-top: 10rem;
 }
 
@@ -285,7 +281,7 @@ footer p{
     display: block;
     clear: both;
     column-count: 3;
-    column-gap: 1;
+    column-gap: 3px;
 }
 
 /* contact page css */
@@ -294,7 +290,7 @@ footer p{
 
     margin: 2%;
     border-radius: 2rem;
-    display: column;
+    display: block;
     justify-content: center;
     align-items: center;
     margin-left: 10rem;
@@ -337,7 +333,7 @@ form input {
     background-color: #f6be00;
     border-radius: 2rem;
     line-height: 3rem;
-    justify-content: 3rem;
+    justify-content:center;
     margin-left: 20%;
 }
 
@@ -354,7 +350,7 @@ form input {
     margin-top: 1rem;
     border-radius: 2rem;
     margin-left: -25%;
-    text-decoration: hidden;
+    text-decoration: none;
 }
 
 /* talk to us css */
@@ -469,7 +465,7 @@ h6 {
         justify-content: center;
         align-items: center;
         font-size: 6px;
-        margin: 0, auto;
+        margin: 0;
         padding: 3px;
     }
 
@@ -643,7 +639,7 @@ h3 {
 
  .btn {
         margin-left: 6rem;
-        width: 0 auto;
+        width: 0;
         margin-left: 36%;
 
     }
@@ -707,7 +703,7 @@ button{
 
     h6 {
         font-size: 1rem;
-        margin-top: 0 auto;
+        margin-top: 0;
 
     }
  #types p {
