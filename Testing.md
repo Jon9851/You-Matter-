@@ -1,0 +1,25 @@
+W3C markup validator and W3C CSS validator were used to test and vailidate all the code on all 4  pages on of You Matter to ensure that there were no syntax errors.
+
+![Testing on W3C Html and CSS](assets/readme-images/w3c.png)
+# BUGS
+The orginal design for you matter change a lot due to bugs and learning curves i faced during the development of this project. 
+
+  1. Postion absoulte caused many issues when it came to my meida query moving everything out of alignment. I had to rewrite the code ,and remove postion abosulte from the source code.
+  2. Button alignment on some the screen isn`t lined up correctly.
+  3. Images size on tablet device doesn`t render with the correct width. Text goes out of alignnment on ipad. 
+  4. During testing i had created a button inside a elemnet which caused errors during the validation so the code had to be rewritten.
+
+
+# Accessibilty
+Accessibilty was tested on lighthouse during the development of You Matter. The results are displayed below.
+
+![Accessibilty Testing](assets/readme-images/access.png)
+## Deployment
+
+  ### **Deployment**
+
+  The site was deployed using GitHub. THe following step will depoly You matter site.
+  1. on the github repository, naviagte to **Settings** tab.
+  2. Once on setting page, naviagte to **Pages** on the left hand side of the screen second from the bottom.
+  3. Under **Source**, select the branch to **main**, then click **save**.
+  4.  once you have selected the main branch, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
