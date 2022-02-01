@@ -188,6 +188,18 @@ left of the page and at the bottom. These images are designed to be welcoming.
   * A sign up page 
   * A video gallery page 
 
+## Deployment
+
+  ### **Deployment**
+
+  The site was deployed using GitHub. THe following step will depoly You matter site.
+  1. on the github repository, naviagte to **Settings** tab.
+  2. Once on setting page, naviagte to **Pages** on the left hand side of the screen second from the bottom.
+  3. Under **Source**, select the branch to **main**, then click **save**.
+  4.  once you have selected the main branch, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+ 
+ ![GitHub pages for deployment](assets/readme-images/github.jpg)
+ 
  # Technologies Used
    
 * [HTML5](https://html.spec.whatwg.org/) -Used to create the contents and structure for the website.
@@ -204,11 +216,11 @@ left of the page and at the bottom. These images are designed to be welcoming.
  Please refer to [**_here_**](TESTING.md) for more information on testing 'You Matter'.
 
 
-![GitHub pages for deployment](assets/readme-images/github.jpg)
+
   
 The live link will take you directly to **You Matter** repository - https://jon9851.github.io/You-Matter-/
   
-  ### **Clone  Repository**
+  # Clone  Repository
    To Clone a repository use the following steps to guide you throught it.
    1. Under the repository’s name, click on the code tab.
    2. click on the clipboard icon to copy the given URL.
