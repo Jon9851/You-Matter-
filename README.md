@@ -19,7 +19,7 @@ Welcome to your guide through You Matter <a href="https://jon9851.github.io/You-
   * [Site Structure](<#site-structure>)
   * [Design Choices](<#design-choices>)
   * [Fonts used](<#Fonts>)
-  * [Color Scheme](<#colour-scheme>)
+  * [Color Scheme](<#color-scheme>)
   * [**Features**](<#features>)
       * [Home](<#navigation-menu>)
       * [Navigation menu](<#navigation-menu>)
@@ -37,8 +37,6 @@ Welcome to your guide through You Matter <a href="https://jon9851.github.io/You-
 * [**Future Features**](<#future-features>)
 * [**Technologies Used**](<#technologies-used>)  
 * [**Testing**](<#testing>)
-* [**Bugs**](<#bugs>)
-* [**Accessibilty**](<#accessibility>)
 * [**Deployment**](<#deployment>)
 * [**Credits**](<#credits>)
 * [**Content**](<#content>)
@@ -74,7 +72,7 @@ changes during development that occurred during the creation process.
 
 * The style of you matter was choosen for the simple design of the website which is easy to follow and use.
 
-##  Color Scheme
+## Color Scheme
 * The colour scheme of black and yellow were eventually chosen for the 
 site. Originally, the site was red and black, however this was changed 
 due to the poor text visibility present on the pages. 
@@ -240,6 +238,7 @@ The live link will take you directly to **You Matter** repository - https://jon9
 * The map used is from [Google Maps](https://www.google.com/maps).
 * Balsamiq was used to create the wireframes [Balsamiq](https://balsamiq.com/)
 * Font Awesome was used for the icons on You Matter. [Font Awesome](https://fontawesome.com/)
+* All iamges contained with You Matter where uploaded on [Postimage](https://postimages.org/)
 
 ### Media
    * Images used came from [unsplash](https://unsplash.com/)
