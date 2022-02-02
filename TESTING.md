@@ -1,6 +1,28 @@
 W3C markup validator and W3C CSS validator were used to test and vailidate all the code on all 4  pages on of You Matter to ensure that there were no syntax errors.
 
-![Testing on W3C Html and CSS](assets/readme-images/w3c.png)
+
+ # index
+ The image below is testing for the index.html file. No errors or warnings are visable. 
+
+![Testing on W3C Html and CSS](assets/readme-images/index.png)
+ # Our Facilities
+ The image below is testing for the our-facilities.html file. No errors or warnings are visable. 
+
+![Testing on W3C Html and CSS](assets/readme-images/ourfac.png)
+ # Talk
+ The image below is testing for the talk.html file. No errors or warnings are visable. 
+
+![Testing on W3C Html and CSS](assets/readme-images/talk3.png)
+ # Contact
+ The image below is testing for the Contact.html file. No errors or warnings are visable. 
+
+![Testing on W3C Html and CSS](assets/readme-images/contactpage.png)
+ # css 
+ The image below is testing for the  style.css file. No errors or warnings are visable. 
+
+![Testing on W3C Html and CSS](assets/readme-images/cssval.png)
+
+ 
 # BUGS
 The orginal design for you matter change a lot due to bugs and learning curves i faced during the development of this project. 
 
