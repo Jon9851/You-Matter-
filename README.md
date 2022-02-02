@@ -19,7 +19,7 @@ Welcome to your guide through You Matter <a href="https://jon9851.github.io/You-
   * [Site Structure](<#site-structure>)
   * [Design Choices](<#design-choices>)
   * [Fonts used](<#Fonts>)
-  * [Colour Scheme](<#colour-scheme>)
+  * [Color Scheme](<#colour-scheme>)
   * [**Features**](<#features>)
       * [Home](<#navigation-menu>)
       * [Navigation menu](<#navigation-menu>)
@@ -59,7 +59,7 @@ changes during development that occurred during the creation process.
 
 [Contents](<#contents>)
 
-## Design Chocies
+# Design Choices
 
 ## Fonts
 * The font that I chose was Oswald, due to its striking visual impact.
