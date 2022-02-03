@@ -1,6 +1,6 @@
 
 * [**Bugs**](<#bugs>)
-* [**Accessibilty**](<#accessibility>)
+* [**Accessibilty **](<#accessibility>)
 
 W3C markup validator and W3C CSS validator were used to test and vailidate all the code on all 4  pages on of You Matter to ensure that there were no syntax errors.
 
@@ -40,4 +40,4 @@ The orginal design for you matter change a lot due to bugs and learning curves i
 Accessibilty was tested on lighthouse during the development of You Matter. The results are displayed below.
 
 ![Accessibilty Testing](assets/readme-images/access.png)
-## Deployment
+
