@@ -15,6 +15,7 @@ Welcome to your guide through You Matter <a href="https://jon9851.github.io/You-
 # Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
+  * [User Stories](<#user-stories>)
   * [Wireframes](<#wireframes>)
   * [Site Structure](<#site-structure>)
   * [Design Choices](<#design-choices>)
@@ -45,6 +46,14 @@ Welcome to your guide through You Matter <a href="https://jon9851.github.io/You-
 
 # User Experience (UX)
 
+## User stories
+
+  1. The contacts button on the first page makes in easy to get in touch with the gym.
+  2. The site easy to understand and the color scheme makes the site more visable. 
+  3. The classes part gives enough information to understand what they gym has to offer. The times
+  and dates are stated on the website. 
+  4. The gallery page shows everything the gym has to offer with vidoes including of the different classes.
+
 ## Wireframes
 The wireframes for ‘You Matter’ were produced in[Balsamiq](https://balsamiq.com).
 There are frames for a full width display ( 1920 x 1080 )and a small mobile 
@@ -52,8 +61,8 @@ device (360 x 640). The final site varies slightly from the wireframes due to bu
 changes during development that occurred during the creation process.
  
 
-![Wireframe Desktop](assets/readme-images/wireframe.png)
-![Wireframe Mobile](assets/readme-images/mobilewireframe.png)
+![Wireframe Desktop](assets/readme-images/youmatterwireframe1.png)
+![Wireframe Mobile](assets/readme-images/youmattermobileframe.png)
 
 [Contents](<#contents>)
 
