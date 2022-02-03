@@ -53,7 +53,7 @@ Welcome to your guide through You Matter <a href="https://jon9851.github.io/You-
   3. The classes part gives enough information to understand what they gym has to offer. The times
   and dates are stated on the website. 
   4. The gallery page shows everything the gym has to offer with vidoes including of the different classes.
-
+![User Stories](assets/readme-images/users.png)
 ## Wireframes
 The wireframes for ‘You Matter’ were produced in[Balsamiq](https://balsamiq.com).
 There are frames for a full width display ( 1920 x 1080 )and a small mobile 
