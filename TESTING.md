@@ -1,7 +1,7 @@
-
+* [**Testing**](<#testing>)
 * [**Bugs**](<#bugs>)
-* [**Accessibilty **](<#accessibility>)
-
+* [**Accessibilty**](<#accessibilty>)
+# Testing
 W3C markup validator and W3C CSS validator were used to test and vailidate all the code on all 4  pages on of You Matter to ensure that there were no syntax errors.
 
 
