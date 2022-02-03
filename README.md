@@ -247,7 +247,7 @@ The live link will take you directly to **You Matter** repository - https://jon9
 * The map used is from [Google Maps](https://www.google.com/maps).
 * Balsamiq was used to create the wireframes [Balsamiq](https://balsamiq.com/)
 * Font Awesome was used for the icons on You Matter. [Font Awesome](https://fontawesome.com/)
-* All iamges contained with You Matter where uploaded on [Postimage](https://postimages.org/)
+* All images contained with You Matter where uploaded on [Postimage](https://postimages.org/)
 
 ### Media
    * Images used came from [unsplash](https://unsplash.com/)
