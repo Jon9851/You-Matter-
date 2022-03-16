@@ -24,10 +24,9 @@ nav {
   top: 0;
   left: 0;
   width: 100%;
-  padding: 2rem 2rem;
+  padding: 1rem;
   margin-right: 1rem;
   box-sizing: border-box;
-
   background: rgb(0, 0, 0, 0.1);
   display: flex;
   justify-content: space-between;
@@ -250,11 +249,12 @@ footer p {
   width: 100%;
 }
 /* videos css */
-#iframe {
+iframe {
   display: block;
   clear: both;
   column-count: 3;
   column-gap: 3px;
+  width: 100%;
 }
 
 /* contact page css */
@@ -439,7 +439,7 @@ h6 {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    font-size: 12px;
+    font-size: 11px;
     margin: 4px;
     padding: 3px;
   }
@@ -617,7 +617,7 @@ h6 {
     margin-left: 5%;
   }
   button {
-    margin-left: 2rem;
+    margin-left: 20%;
   }
 .vid {
     width: 100%;
