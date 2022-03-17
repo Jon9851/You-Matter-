@@ -1,4 +1,5 @@
 * [**Testing**](<#testing>)
+* [Responsiveness Testing](<#responsiveness-testing>)
 * [**Bugs**](<#bugs>)
 * [**Accessibilty**](<#accessibilty>)
 # Testing
@@ -26,7 +27,20 @@ W3C markup validator and W3C CSS validator were used to test and vailidate all t
 
 ![Testing on W3C Html and CSS](assets/readme-images/cssval.png)
 
- 
+
+## Responsiveness-Testing
+ The follwing images demonstrate responsiveness across multiple devices.
+
+![Iphone 5 320 x 568](assets/readme-images/iphone5.png) Testing the nav bar on the iphone 5 for responsiveness 320 x 568px
+
+
+![Iphone 6 375 x 667](assets/readme-images/iphone6.png) Testing the vidoe width on the iphone 6 for responsiveness 375 x 568px
+
+
+![Iphone 10 375 x 812](assets/readme-images/iphonex.png) Testing the text size on the iphone 10 for responsiveness 375 x 812px 
+
+
+![Iphone 10 768 x 1024](assets/readme-images/ipad.png) Testing the postion for sign-up form on the iphone 10 for responsiveness 768 x 1024px 
 # BUGS
 The orginal design for you matter change a lot due to bugs and learning curves i faced during the development of this project. 
 
